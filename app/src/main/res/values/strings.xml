@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBaseApp</string>
+    <string name="Sobre">Sobre</string>
+    <string name="Sair">Sair</string>
+</resources>
